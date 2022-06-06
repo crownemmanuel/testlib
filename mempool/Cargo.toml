@@ -15,7 +15,7 @@ grpcio-sys = "0.4.4"
 lazy_static = "1.3.0"
 lru-cache = "0.1.1"
 protobuf = "~2.7"
-tokio = "0.1.22"
+tokio = "1.8.4"
 ttl_cache = "0.4.2"
 
 bounded-executor = { path = "../common/bounded-executor" }
