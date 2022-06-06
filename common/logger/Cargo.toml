@@ -25,7 +25,7 @@ slog-envlogger = "2.1.0"
 slog-scope = "4.0"
 slog-term = "2.4.1"
 thread-id = "3.3.0"
-tokio = "0.1.22"
+tokio = "1.8.4"
 
 # Do NOT add any other inter-project dependencies.
 # This is to avoid ever having a circular dependency with the logger crate.
